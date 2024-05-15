@@ -1,0 +1,27 @@
+{
+  "user_info":{
+    "name": "Ian",
+    "email":"alberto.linares.castillo@gmail.com",
+    "password": "123456",
+    "day": "27",
+    "month": "12",
+    "year": "1996",
+    "firstName": "Ian",
+    "lastName": "Linarez",
+    "address":"Agueda Suarez street, Residential LP9, 7B, Alameda",
+    "country":"United States",
+    "state": "Santo Domingo Oeste",
+    "city": "Santo Domingo Oeste",
+    "zipcode":"90192",
+    "mobileNumber": "8492578970",
+    "nameOnCard": "Mario",
+    "cardNumber": "1234 5678 9123 4567",
+    "cvc": "012",
+    "expireMonth": "12",
+    "expireYear":"2025"
+  },
+  "product_info":{
+    "name":"Green Side Placket Detail T-Shirt",
+    "amount": "30"
+  }
+}
